@@ -1,0 +1,2 @@
+RUN IMAGE
+docker run -d -p 8080:80 httpd:latest
