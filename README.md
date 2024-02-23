@@ -8,7 +8,7 @@
 ### Docker Architecture
 ``` Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers. The Docker client and daemon can run on the same system, or you can connect a Docker client to a remote Docker daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface. ```
 ### Docker Components
-- Docker Engine
+- Docker Engine 
 - Docker Images
 - Docker Containers
 - Docker Registries
@@ -25,10 +25,11 @@
 - Docker for Windows
 
 ### Docker Engine
-``` Docker Engine is a client-server application with these major components:
+- Docker Engine is a client-server application with these major components:
 - A server which is a type of long-running program called a daemon process (the dockerd command).
 - A REST API which specifies interfaces that programs can use to talk to the daemon and instruct it what to do.
-- A command line interface (CLI) client (the docker command). ```
+- A command line interface (CLI) client (the docker command). 
+
 ### Docker Images
 ``` An image is a lightweight, stand-alone, executable package that includes everything needed to run a piece of software, including the code, a runtime, libraries, environment variables, and config files. ```
 ### Docker Containers
