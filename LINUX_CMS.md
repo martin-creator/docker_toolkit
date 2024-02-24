@@ -1,6 +1,6 @@
-#Linux Command Cheat Sheet
+# Linux Command Cheat Sheet
 
-```This cheat sheet provides a quick reference to commonly used Linux commands for navigating the filesystem, managing files, working with processes, networking, and system administration tasks.``
+```This cheat sheet provides a quick reference to commonly used Linux commands for navigating the filesystem, managing files, working with processes, networking, and system administration tasks.```
 
 
 
