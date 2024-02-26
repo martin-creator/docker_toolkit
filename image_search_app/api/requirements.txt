@@ -1,0 +1,9 @@
+flask
+requests
+python-dotenv
+flask-cors
+
+# dev-packages
+black
+pylint
+pycodestyle
