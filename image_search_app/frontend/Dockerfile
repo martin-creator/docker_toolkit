@@ -12,6 +12,8 @@ COPY package.json package-lock.json ./
 # Install dependencies
 RUN npm install --silent
 
+RUN mkdir node_modules/.cache && chmod -R 777 node_modules/.cache
+
 # Copy the current directory contents into the container at /app
 COPY . ./
 
